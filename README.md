@@ -1,5 +1,5 @@
 # Deep-Learning-And-Machine-Learning-Portfolio
-This contains a listing of machine learning and deep learning projects I have done over the years for ease of access
+This contains a listing of publicly displayable machine learning and deep learning projects I have done over the years for ease of access. All of the projects have been implemented in Python.
 
 ## [Random Forest Land Classification](https://github.com/samniem/Random-Forest-Land-Classification)
 This project takes data from ESA Sentinel-1 and Sentinel-2 remote sensing satellites. The data is processed according to best practices provided by ESA using SNAP software at the time of implementing the project. 
